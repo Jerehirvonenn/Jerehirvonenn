@@ -5,6 +5,8 @@
 <p align="left">I am software developer/programmer studying at Hive Helsinki<br>Passionate about problem solving | Data Structures & Algorithms | Embedded Systems | AI & Machine Learning</p>
 
 ###
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1700&color=38C2FF&width=435&lines=C%2FC%2B%2B+Programmer;Student+At+Hive+Helsinki;Embedded+Systems+Developer;Software+Engineering)
+###
 
 <h2 align="left">Tech Skills</h2>
 
